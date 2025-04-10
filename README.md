@@ -1,3 +1,4 @@
 Hello, World!
 =
-Student, Sunrin-highschool(Div of Information Security)
+Just a Student of south korea
+Sunrin-highschool(Div of Information Security)
