@@ -1,6 +1,6 @@
 Hello, World!
 =
-## Student & Noob of Cyber Security
+### Student & Noob of Cyber Security
  - interested in reverse engineering, pwnable, imbedded - hardware
  
 ## School : 
@@ -13,3 +13,7 @@ Sunrin Internet high-school ( Div of Information Security / 120th )
  
 ## Team & Lab : 
 LubiyaLab ( not member, just tryout role )
+<br> <br>
+### Contract : 
+discord : mossikim<br>
+gmail : mossikim12@gmail.com
