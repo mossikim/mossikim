@@ -17,3 +17,6 @@ LubiyaLab ( not member, just tryout role )
 ### Contract : 
 discord : mossikim<br>
 gmail : mossikim12@gmail.com
+ <br> <br>
+### Other : 
+ [velog(belog)](https://velog.io/@mossikim/posts)
